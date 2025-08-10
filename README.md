@@ -22,7 +22,7 @@ Proyek ini menganalisis data penjualan cokelat untuk menjawab pertanyaan bisnis 
 ### 4. Kinerja Tenaga Penjual
 - Ranking penjual berdasarkan pencapaian target
 - Analisis gap kinerja penjual terbaik vs terendah
-- 
+
 ## Analytics Tools
 - Pandas
 - Numpy
