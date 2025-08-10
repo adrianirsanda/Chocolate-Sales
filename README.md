@@ -22,12 +22,12 @@ Proyek ini menganalisis data penjualan cokelat untuk menjawab pertanyaan bisnis 
 ### 4. Kinerja Tenaga Penjual
 - Ranking penjual berdasarkan pencapaian target
 - Analisis gap kinerja penjual terbaik vs terendah
-
-## Sumber Data
-[Chocolate Sales](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
-
+- 
 ## Analytics Tools
 - Pandas
 - Numpy
 - Matplotlib
 - Seaborn
+
+## Sumber Data
+[Chocolate Sales](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
